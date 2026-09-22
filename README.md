@@ -4,7 +4,7 @@ A modern and responsive landing page for a car rental service.
 
 ## 🌐 Live Demo
 
-https://phindalin29-rgb.github.io/Rent-Car-Landing-Page/
+[https://phindalin29-rgb.github.io/Rent-Car-Landing-Page/](https://rent-car-landing-page-rust.vercel.app/)
 <img width="1917" height="1051" alt="image" src="https://github.com/user-attachments/assets/0fea2a1d-1a71-4041-b86e-9847fee8bfee" />
 
 ## ✨ Features
